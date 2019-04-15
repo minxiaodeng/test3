@@ -5,4 +5,8 @@ public class FirstClass {
         System.out.println("m.............");
 
     }
+
+    public void save(){
+        System.out.println("b..........");
+    }
 }
