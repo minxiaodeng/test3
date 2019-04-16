@@ -9,4 +9,11 @@ public class FirstClass {
     public void save(){
         System.out.println("b..........");
     }
+
+
+    public void add(){
+        int a=1;
+        int b=2;
+        System.out.println(a+b);
+    }
 }
